@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue", "Queue\Queue.vcxproj", "{F20A9BDC-6004-4ED9-AB8C-6BCCC0CA7A3B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTestQueue", "UnitTestQueue\UnitTestQueue.vcxproj", "{04D11A11-7948-4217-B7B8-B14E260E6A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20A9BDC-6004-4ED9-AB8C-6BCCC0CA7A3B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F20A9BDC-6004-4ED9-AB8C-6BCCC0CA7A3B}.Debug|Win32.Build.0 = Debug|Win32
+		{F20A9BDC-6004-4ED9-AB8C-6BCCC0CA7A3B}.Release|Win32.ActiveCfg = Release|Win32
+		{F20A9BDC-6004-4ED9-AB8C-6BCCC0CA7A3B}.Release|Win32.Build.0 = Release|Win32
+		{04D11A11-7948-4217-B7B8-B14E260E6A1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04D11A11-7948-4217-B7B8-B14E260E6A1E}.Debug|Win32.Build.0 = Debug|Win32
+		{04D11A11-7948-4217-B7B8-B14E260E6A1E}.Release|Win32.ActiveCfg = Release|Win32
+		{04D11A11-7948-4217-B7B8-B14E260E6A1E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
